@@ -73,6 +73,9 @@ Xinyu Huang, Youcai Zhang, **Ying Cheng**, Weiwei Tian, Rui-Wei Zhao, Rui Feng, 
 - `TMM 2023` **Self-Supervised Learning of Music-Dance Representation through Explicit-Implicit Rhythm Synchronization**     
 Jiashuo Yu, Junfu Pu, **Ying Cheng**, Rui Feng, Ying Shan [[paper](https://arxiv.org/abs/2207.03190)]
 
+- `KDD 2024` **ADSNet: Cross-Domain LTV Prediction with an Adaptive Siamese Network in Advertising**      
+Ruize Wang, Hui Xu, **Ying Cheng**, Qi He, Xing Zhou, Rui Feng, Wei Xu, Lei Huang, Jie Jiang [[paper](https://arxiv.org/abs/2406.10517v1)]
+
 
 
 # 📖 Educations
