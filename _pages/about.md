@@ -76,6 +76,14 @@ Jiashuo Yu, Junfu Pu, **Ying Cheng**, Rui Feng, Ying Shan [[paper](https://arxiv
 - `KDD 2024` **ADSNet: Cross-Domain LTV Prediction with an Adaptive Siamese Network in Advertising**      
 Ruize Wang, Hui Xu, **Ying Cheng**, Qi He, Xing Zhou, Rui Feng, Wei Xu, Lei Huang, Jie Jiang [[paper](https://arxiv.org/abs/2406.10517v1)]
 
+- `ACM MM 2024` **DeepPointMap2: Accurate and Robust LiDAR-Visual SLAM with Neural Descriptors**      
+Xiaze Zhang, Ziheng Ding, Qi Jing, **Ying Cheng**, Wenchao Ding, Rui Feng [[paper](https://openreview.net/pdf?id=05PCDMN4Dk)]
+
+- `ACM MM 2024` **CT^2C-QA: Multimodal Question Answering over Chinese Text, Table and Chart**      
+Bowen Zhao, Tianhao Cheng, Yuejie Zhang, **Ying Cheng**, Rui Feng, Xiaobo Zhang [[paper](https://arxiv.org/pdf/2410.21414)]
+
+- `NeurIPS 2024` **Mixtures of Experts for Audio-Visual Learning**      
+**Ying Cheng**, Yang Li, Junjie He, Rui Feng [[paper](https://openreview.net/pdf?id=SNmuKbU0am)]
 
 
 # 📖 Educations
