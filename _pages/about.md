@@ -24,7 +24,9 @@ My research interest includes multimodal representation learning and knowledge i
 
 
 # 🔥 News
-- *2024.12*: &nbsp;🎉 A total of three papers are accepted by AAAI 2025, COLING 2025 and ICASSP 2025.
+- *2024.12*: &nbsp;🎉 One paper is accepted by AAAI 2025.
+- *2024.12*: &nbsp;🎉 One paper is accepted by COLING 2025.
+- *2024.12*: &nbsp;🎉 One paper is accepted by ICASSP 2025.
 - *2024.09*: &nbsp;🎉 One paper is accepted by NeurIPS 2024.
 - *2024.07*: &nbsp;🎉 Two papers are accepted by ACM MM 2024.
 - *2024.05*: &nbsp;🎉 One paper is accepted by KDD 2024.
