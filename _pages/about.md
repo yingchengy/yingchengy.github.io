@@ -20,9 +20,7 @@ redirect_from:
 I am currently a postdoc working in Cross-Media Intelligent Computing Lab at Fudan University.
 
 I received my Ph.D. from Fudan University in June 2023, under the supervision of [Rui Feng](https://faculty.fudan.edu.cn/fengrui/zh_CN/index.htm). 
-My research interest includes multimodal representation learning and knowledge infusion. I have published 10+ papers  <a href='https://scholar.google.com/citations?user=wsmBf7oAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a> at the top international AI conferences such as TMM, ACM MM and ICASSP.
-
-<!-- I graduated from Fudan University (复旦大学) with a master’s degree. I was a member of [Fudan NLP Group (复旦大学自然语言处理实验室)](https://nlp.fudan.edu.cn), advised by [Xuanjing Huang (黄萱菁)](https://xuanjing-huang.github.io) and [Zhongyu Wei (魏忠钰)](http://www.fudan-disc.com/people). -->
+My research interest includes multimodal representation learning and knowledge infusion. I have published 10+ papers  <a href='https://scholar.google.com/citations?user=wsmBf7oAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a> at the top international AI conferences such as NeuralIPS, AAAI, TMM, ACM MM and ICASSP.
 
 
 # 🔥 News
@@ -60,13 +58,16 @@ My research interest includes multimodal representation learning and knowledge i
 Ruize Wang, Hui Xu, **Ying Cheng**, Qi He, Xing Zhou, Rui Feng, Wei Xu, Lei Huang, Jie Jiang [[paper](https://arxiv.org/abs/2406.10517v1)]
 
 - `AAAI 2025` **AS-Det: Active Sampling for Adaptive 3D Object Detection in Point Clouds**      
-Ziheng Ding, Xiaze Zhang, Qi Jing, **Ying Cheng***, Rui Feng* [[paper]()]
+Ziheng Ding, Xiaze Zhang, Qi Jing, **Ying Cheng***, Rui Feng* 
+<!-- [[paper]()] -->
 
 - `COLING 2025` **RoBGuard: Enhancing LLMs to Assess Risk of Bias in Clinical Trial Documents**      
-Changkai Ji, Bowen Zhao, Zhuoyao Wang, Yingwen Wang, Yuejie Zhang, **Ying Cheng**, Rui Feng and Xiaobo Zhang [[paper]()]
+Changkai Ji, Bowen Zhao, Zhuoyao Wang, Yingwen Wang, Yuejie Zhang, **Ying Cheng**, Rui Feng and Xiaobo Zhang 
+<!-- [[paper]()] -->
 
 - `ICASSP 2025` **Uncertainty-Aware Dynamic Fusion for Multimodal Clinical Prediction Tasks**      
-Jiayu Guo, **Ying Cheng**, Wen He, Yuejie Zhang, Rui Feng*, Xiaobo Zhang* [[paper]()]
+Jiayu Guo, **Ying Cheng**, Wen He, Yuejie Zhang, Rui Feng*, Xiaobo Zhang* 
+<!-- [[paper]()] -->
 
 - `ACM MM 2024` **DeepPointMap2: Accurate and Robust LiDAR-Visual SLAM with Neural Descriptors**      
 Xiaze Zhang, Ziheng Ding, Qi Jing, **Ying Cheng**, Wenchao Ding, Rui Feng [[paper](https://openreview.net/pdf?id=05PCDMN4Dk)]
