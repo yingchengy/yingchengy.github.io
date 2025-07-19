@@ -20,10 +20,13 @@ redirect_from:
 I am currently a postdoc working in Cross-Media Intelligent Computing Lab at Fudan University.
 
 I received my Ph.D. from Fudan University in June 2023, under the supervision of [Rui Feng](https://faculty.fudan.edu.cn/fengrui/zh_CN/index.htm). 
-My research interest includes multimodal representation learning and knowledge infusion. I have published 10+ papers  <a href='https://scholar.google.com/citations?user=wsmBf7oAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a> at the top international AI conferences such as NeuralIPS, AAAI, TMM, ACM MM and ICASSP.
+My research interest includes multimodal representation learning and knowledge infusion. I have published 20+ papers  <a href='https://scholar.google.com/citations?user=wsmBf7oAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a> at the top international AI conferences such as NeurIPS, AAAI, TMM, ACM MM and ICASSP.
 
 
 # 🔥 News
+- *2025.07*: &nbsp;🎉 One paper is accepted by COLM 2025.
+- *2025.07*: &nbsp;🎉 One paper is accepted by ECAI 2025.
+- *2025.07*: &nbsp;🎉 One paper is accepted by ACM MM 2025.
 - *2024.12*: &nbsp;🎉 One paper is accepted by AAAI 2025.
 - *2024.12*: &nbsp;🎉 One paper is accepted by COLING 2025.
 - *2024.12*: &nbsp;🎉 One paper is accepted by ICASSP 2025.
@@ -45,7 +48,7 @@ My research interest includes multimodal representation learning and knowledge i
 <!-- </div> -->
 <!-- </div> -->
 - `NeurIPS 2024` **Mixtures of Experts for Audio-Visual Learning**      
-**Ying Cheng**, Yang Li, Junjie He, Rui Feng [[paper](https://openreview.net/pdf?id=SNmuKbU0am)]
+**Ying Cheng**, Yang Li, Junjie He, Rui Feng [[paper](https://openreview.net/pdf?id=SNmuKbU0am)][[code](https://github.com/yingchengy/AVMOE)]
 
 - `ACM MM 2021` **Exploring Logical Reasoning for Referring Expression Comprehension**  
 **Ying Cheng**, Ruize Wang, Jiashuo Yu, Rui-Wei Zhao, Yuejie Zhang, Rui Feng [[paper](https://dl.acm.org/doi/abs/10.1145/3474085.3475677)]
@@ -99,11 +102,11 @@ Jiashuo Yu, **Ying Cheng**, Rui Feng [[paper](https://arxiv.org/pdf/2104.02971)]
 Ruize Wang, Zhongyu Wei, **Ying Cheng**, Piji Li, Haijun Shan, Ji Zhang, Qi Zhang, Xuanjing Huang [[paper](https://arxiv.org/abs/1911.04192)]
 
 
-# 📖 Educations
+# 📖 Experience
+- *2023.07 - 2025.07*, Fudan University  
+    Postdoctoral Researcher in Computer Science
 - *2018.09 - 2023.06*, Fudan University  
     Bachelor-PhD in Computer Science
-- *2014.09 - 2018.06*, Yunnan University  
-    Bachelor of Science in Communication Engineering
 
 <!-- # 💬 Invited Talks
 - *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
