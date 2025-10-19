@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am currently a postdoc working in Cross-Media Intelligent Computing Lab at Fudan University.
+I am currently an Assistant Professor (tenure-track) at School of Computer Science and Technology, Tongji University. Prior to that, I was a postdoc working in Cross-Media Intelligent Computing Lab at Fudan University.
 
 I received my Ph.D. from Fudan University in June 2023, under the supervision of [Rui Feng](https://faculty.fudan.edu.cn/fengrui/zh_CN/index.htm). 
 My research interest includes multimodal representation learning and knowledge infusion. I have published 20+ papers  <a href='https://scholar.google.com/citations?user=wsmBf7oAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a> at the top international AI conferences such as NeurIPS, AAAI, TMM, ACM MM and ICASSP.
