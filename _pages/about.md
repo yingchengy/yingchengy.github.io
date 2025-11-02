@@ -47,24 +47,18 @@ My research interest includes multimodal representation learning and knowledge i
 - Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  -->
 <!-- </div> -->
 <!-- </div> -->
-- `NeurIPS 2024` **Mixtures of Experts for Audio-Visual Learning**      
-**Ying Cheng**, Yang Li, Junjie He, Rui Feng [[paper](https://openreview.net/pdf?id=SNmuKbU0am)][[code](https://github.com/yingchengy/AVMOE)]
-
-- `ACM MM 2021` **Exploring Logical Reasoning for Referring Expression Comprehension**  
-**Ying Cheng**, Ruize Wang, Jiashuo Yu, Rui-Wei Zhao, Yuejie Zhang, Rui Feng [[paper](https://dl.acm.org/doi/abs/10.1145/3474085.3475677)]
-
-- `ACM MM 2020` **Look, Listen, and Attend: Co-Attention Network for Self-Supervised Audio-Visual Representation Learning**    
-**Ying Cheng**, Ruize Wang, Zhihao Pan, Rui Feng, Yuejie Zhang [[paper](https://arxiv.org/pdf/2008.05789)]
-
-- `ICASSP 2021` **Improving Multimodal Speech Enhancement by Incorporating Self-Supervised and Curriculum Learning**     
-**Ying Cheng**, Mengyu He, Jiashuo Yu, Rui Feng [[paper](https://ieeexplore.ieee.org/abstract/document/9413431)]
-
-- `KDD 2024` **ADSNet: Cross-Domain LTV Prediction with an Adaptive Siamese Network in Advertising**      
-Ruize Wang, Hui Xu, **Ying Cheng**, Qi He, Xing Zhou, Rui Feng, Wei Xu, Lei Huang, Jie Jiang [[paper](https://arxiv.org/abs/2406.10517v1)]
+- `ACM MM 2025` **Semantic-Aware Hard Negative Mining for Medical Vision-Language Contrastive Pretraining**      
+Yongxin Li, **Ying Cheng***, Yaning Pan, Wen He, Qing Wang, Rui Feng*, Xiaobo Zhang [[paper](https://dl.acm.org/doi/abs/10.1145/3746027.3754991)]
 
 - `AAAI 2025` **AS-Det: Active Sampling for Adaptive 3D Object Detection in Point Clouds**      
 Ziheng Ding, Xiaze Zhang, Qi Jing, **Ying Cheng***, Rui Feng* 
 <!-- [[paper]()] -->
+
+- `ICRA 2025` **ConTrack3D: Contrastive Learning Contributes Concise 3D Multi-Object Tracking**      
+Ruibin Du, Ziheng Ding, Xiaze Zhang, Zhuoyao Wang, **Ying Cheng***, Rui Feng* [[paper](https://ieeexplore.ieee.org/abstract/document/11128704)]
+
+- `COLM 2025` **FineMedLM-o1: Enhancing Medical Knowledge Reasoning Ability of LLM from Supervised Fine-Tuning to Test-Time Training**      
+Hongzhou Yu, Tianhao Cheng, Yingwen Wang, Wen He, Qing Wang, **Ying Cheng***, Yuejie Zhang, Rui Feng*, Xiaobo Zhang [[paper](https://openreview.net/pdf?id=7ZwuGZCopw)]
 
 - `COLING 2025` **RoBGuard: Enhancing LLMs to Assess Risk of Bias in Clinical Trial Documents**      
 Changkai Ji, Bowen Zhao, Zhuoyao Wang, Yingwen Wang, Yuejie Zhang, **Ying Cheng**, Rui Feng and Xiaobo Zhang 
@@ -73,6 +67,12 @@ Changkai Ji, Bowen Zhao, Zhuoyao Wang, Yingwen Wang, Yuejie Zhang, **Ying Cheng*
 - `ICASSP 2025` **Uncertainty-Aware Dynamic Fusion for Multimodal Clinical Prediction Tasks**      
 Jiayu Guo, **Ying Cheng**, Wen He, Yuejie Zhang, Rui Feng*, Xiaobo Zhang* 
 <!-- [[paper]()] -->
+
+- `NeurIPS 2024` **Mixtures of Experts for Audio-Visual Learning**      
+**Ying Cheng**, Yang Li, Junjie He, Rui Feng [[paper](https://openreview.net/pdf?id=SNmuKbU0am)][[code](https://github.com/yingchengy/AVMOE)]
+
+- `KDD 2024` **ADSNet: Cross-Domain LTV Prediction with an Adaptive Siamese Network in Advertising**      
+Ruize Wang, Hui Xu, **Ying Cheng**, Qi He, Xing Zhou, Rui Feng, Wei Xu, Lei Huang, Jie Jiang [[paper](https://arxiv.org/abs/2406.10517v1)]
 
 - `ACM MM 2024` **DeepPointMap2: Accurate and Robust LiDAR-Visual SLAM with Neural Descriptors**      
 Xiaze Zhang, Ziheng Ding, Qi Jing, **Ying Cheng**, Wenchao Ding, Rui Feng [[paper](https://openreview.net/pdf?id=05PCDMN4Dk)]
@@ -95,8 +95,17 @@ Xinyu Huang, Youcai Zhang, **Ying Cheng**, Weiwei Tian, Rui-Wei Zhao, Rui Feng, 
 - `ICME 2022` **Self-Supervised Video Representation Learning with Motion-Contrastive Perception**     
 Jinyu Liu, **Ying Cheng**, Yuejie Zhang, Ruiwei Zhao, Rui Feng* [[paper](https://arxiv.org/pdf/2204.04607)]
 
+- `ACM MM 2021` **Exploring Logical Reasoning for Referring Expression Comprehension**  
+**Ying Cheng**, Ruize Wang, Jiashuo Yu, Rui-Wei Zhao, Yuejie Zhang, Rui Feng [[paper](https://dl.acm.org/doi/abs/10.1145/3474085.3475677)]
+
+- `ICASSP 2021` **Improving Multimodal Speech Enhancement by Incorporating Self-Supervised and Curriculum Learning**     
+**Ying Cheng**, Mengyu He, Jiashuo Yu, Rui Feng [[paper](https://ieeexplore.ieee.org/abstract/document/9413431)]
+
 - `ICME 2021` **MPN: Multimodal Parallel Network for Audio-Visual Event Localization**     
 Jiashuo Yu, **Ying Cheng**, Rui Feng [[paper](https://arxiv.org/pdf/2104.02971)]
+
+- `ACM MM 2020` **Look, Listen, and Attend: Co-Attention Network for Self-Supervised Audio-Visual Representation Learning**    
+**Ying Cheng**, Ruize Wang, Zhihao Pan, Rui Feng, Yuejie Zhang [[paper](https://arxiv.org/pdf/2008.05789)]
 
 - `COLING 2020` **Keep it Consistent: Topic-Aware Storytelling from an Image Stream via Iterative Multi-agent Communication**     
 Ruize Wang, Zhongyu Wei, **Ying Cheng**, Piji Li, Haijun Shan, Ji Zhang, Qi Zhang, Xuanjing Huang [[paper](https://arxiv.org/abs/1911.04192)]
@@ -123,7 +132,6 @@ Ruize Wang, Zhongyu Wei, **Ying Cheng**, Piji Li, Haijun Shan, Ji Zhang, Qi Zhan
 - Outstanding Graduates of Shanghai, *2023*
 - National Scholarship of Ph.D (Top 1%), *2021*
 - National Scholarship of Ph.D (Top 1%), *2020*
-- Outstanding Graduates of Yunnan Province, *2018*
 - Bao Gang Education Scholarship (Top 1%), *2017*
 - National Undergraduate Electronics Design Contest - National First Prize, *2017*
 - Microsoft Imagine Cup Global Student Technology Competition - National Third Prize & Regional First Prize, *2017*
