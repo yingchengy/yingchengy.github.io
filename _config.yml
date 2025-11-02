@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "Ying Cheng (程颖)"
-description              : "Postdoc in Fudan University. Focusing on multimodal representation learning. "
+description              : "Assistant Professor, School of Computer Science and Technology, Tongji University."
 repository               : "yingchengy/yingchengy.github.io"
 google_scholar_stats_use_cdn : true
 
@@ -23,12 +23,12 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 author:
   name             : "Ying Cheng (程颖)"
   avatar           : "images/android-chrome-512x512.png"
-  bio              : "Fudan University"
+  bio              : "Tongji University"
   location         : "Shanghai, China"
   employer         :
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=wsmBf7oAAAAJ"
-  email            : "chengy18@fudan.edu.cn"
+  email            : "yingcheng@tongji.edu.cn"
   researchgate     :  # e.g., "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
