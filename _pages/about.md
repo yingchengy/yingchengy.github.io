@@ -24,6 +24,7 @@ My research interest includes multimodal representation learning and knowledge i
 
 
 # 🔥 News
+- *2026.03*: &nbsp;🎉 One paper is accepted by Pattern Recognition.
 - *2025.07*: &nbsp;🎉 One paper is accepted by COLM 2025.
 - *2025.07*: &nbsp;🎉 One paper is accepted by ECAI 2025.
 - *2025.07*: &nbsp;🎉 One paper is accepted by ACM MM 2025.
